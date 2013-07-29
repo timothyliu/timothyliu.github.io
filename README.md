@@ -1,10 +1,10 @@
-# source of [timothyliu.github.io](http://timothyliu.github.io)
+# source of [timothyliu.github.io](http://timothyliu.github.io/index.html)
 
 persional coding demo/test site
 
 ## Usage
 
-use browser to view url: [timothyliu.github.io](http://timothyliu.github.io)
+use browser to view url: [timothyliu.github.io](http://timothyliu.github.io/index.html)
 
 ## Version
 
